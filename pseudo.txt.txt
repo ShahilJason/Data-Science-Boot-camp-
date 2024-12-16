@@ -1,0 +1,44 @@
+start 
+take a variable called maximum number
+set maximum to zero 
+take input 
+if input is not equal to zero 
+check if input is > maximum 
+replace maximum = input 
+else if input is = zero 
+print maximum 
+end
+2 
+start
+input first name
+store input in the variable first_name
+print first_name "Hello, World"
+end
+3
+start
+set the arbitary integar to numb
+set the sum to zero 
+set counter to one 
+while counter is less than or equal to numb 
+input the integar 
+add the integar to the sum 
+calculate the arithmatic average by dividing the sum by numb 
+print the arithmatic average 
+end 
+4
+start 
+input grocery list 
+add items from the grocery list that are still yet to buy as list 
+remove items that are not on the list 
+store list 
+sort list in an alphabetical order 
+print list 
+end 
+5
+start 
+input x and y 
+add x and y and store it in s
+divide s by two and store it in a
+multiply x and y and store it in p 
+print s, a and p 
+end 
